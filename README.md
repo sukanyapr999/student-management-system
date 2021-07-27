@@ -5,6 +5,7 @@
 			: composer create-project laravel/laravel student-management-system
 			: cd student-management-system
 			: php artisan serve
+#Step 4. Install npm
 
 #DB_DATABASE=student_management_system
 #DB_USERNAME=root
